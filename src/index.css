@@ -75,3 +75,11 @@ button:focus-visible {
 body {
   margin: 0;
 }
+
+:root {
+  font-family: "Poppins", sans-serif;
+}
+
+section {
+  padding: 20px;
+}
