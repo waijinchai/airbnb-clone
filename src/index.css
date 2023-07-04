@@ -83,3 +83,11 @@ body {
 section {
   padding: 20px;
 }
+
+.grey {
+  color: #918E9B;
+}
+
+.bold {
+  font-weight: bold;
+}
