@@ -1,4 +1,4 @@
-import photoGrid from "./assets/photo-grid.png"
+import photoGrid from "../public/assets/photo-grid.png"
 import "./Hero.css"
 
 function Hero() {
